@@ -1,6 +1,6 @@
 from database import TableRow, Database
 from chromedriver import ChromeDriver
-from datafile import log_json, read_json, log_failed, addToLogs
+from datafile import log_json, read_json, addToLogs, json_report
 from utils import calculatePriceAverage
 import json
 import csv
@@ -9,17 +9,14 @@ import random
 import os
 import traceback
 
-databaseTable = "v2"
-urlFile = "urls.json"
 
-database = Database("database.db")
-
-
-def alpha(product, chromeDriver: ChromeDriver):
-    tableRow = TableRow(databaseTable)
+def alpha(product, chromeDriver: ChromeDriver, tableRow: TableRow):
     productDetails, price30Days, contractUnit = chromeDriver.fetchProductDetails(
         product["url"]
     )
+    if productDetails is None or price30Days is None:
+        raise RuntimeError("Failed to fetch product details or price data")
+    
     average_volume, average_oi = calculatePriceAverage(price30Days)
     tableRow.data["product"] = product["product"]
     tableRow.data["url"] = product["url"]
@@ -29,80 +26,41 @@ def alpha(product, chromeDriver: ChromeDriver):
     tableRow.data["ContractUnit"] = contractUnit
     tableRow.data["volume"] = product["volume"]
     tableRow.data["oi"] = product["oi"]
-    database.insert_row(tableRow)
-
-
-# def main():
-#     urls = read_json("urls.json")
-#     for rangeNum in range(0, 500, 100):
-#         start = rangeNum
-#         end = rangeNum + 100
-#         alphaFail = 0
-#         chromeDriver = ChromeDriver(headless=False)
-#         addToLogs(f"Started range of {start} {end} \n \n")
-
-#         for idx, product in enumerate(urls[start:end]):
-#             print(idx)
-#             try:
-#                 alpha(product, chromeDriver)
-#                 addToLogs(f"{idx} ✅")
-#             except:
-#                 print(f"fail: {alphaFail}")
-#                 alphaFail += 1
-
-#                 if alphaFail >= 5:
-#                     time.sleep(2 * 60)
-#                     alphaFail = 0
-
-#                 try:
-#                     chromeDriver.driver.refresh()
-#                     alpha(product, chromeDriver)
-#                 except:
-#                     print("Final Fail")
-#                     chromeDriver.screenshot(idx)
-#                     addToLogs(f"{idx} ❌")
-#                     log_failed(idx)
-
-#         chromeDriver.shutdown()
-#         addToLogs(f"Ended range of {start} {end} \n \n")
 
 
 def main():
-    urls = read_json("urls.json")
-    for rangeNum in range(0, 500, 100):
-        start = rangeNum
-        end = rangeNum + 100
-        alphaFail = 0
-        chromeDriver = ChromeDriver(headless=False)
-        addToLogs(f"Started range of {start} {end} \n \n")
+    products = read_json("urls.json")
+    tableName = read_json("database_settings.json")["tableName"]
+    tableRow = TableRow(tableName)
+    database = Database()
 
-        for idx, product in enumerate(urls[start:end]):
-            print(f"Processing product {idx + start}")
+    for idx, product in enumerate(products):
+        print(f"{idx} Processing")
+        tableRow.clearRow()
+        chromeDriver = ChromeDriver(headless=True)
+        report = {"idx": idx, "url": product["url"], "success": "true"}
+        try:
+            alpha(product, chromeDriver, tableRow)
+        except:
+            print(f"{idx} Failed. Retrying")
+            chromeDriver.shutdown()
+            time.sleep(60)
+            chromeDriver = ChromeDriver(headless=True)
             try:
-                alpha(product, chromeDriver)
-                addToLogs(f"{idx + start} ✅")  # Log success with correct index
-            except Exception as e:
-                print(f"Error processing {idx + start}: {e}")
-                alphaFail += 1
+                alpha(product, chromeDriver, tableRow)
+            except:
+                report["success"] = "false"
+                print(f"{idx} Failed Completely")
+        finally:
+            if report["success"] == "true":
+                print(f"{idx} Adding to database")
+                database.insert_row(tableRow)
 
-                if alphaFail >= 5:
-                    time.sleep(
-                        2 * 60
-                    )  # Wait for 2 minutes if 5 failures occur in a row
-                    alphaFail = 0
+            chromeDriver.shutdown()
+            json_report(report)
+            time.sleep(2 * 60)
 
-                try:
-                    chromeDriver.driver.refresh()
-                    alpha(product, chromeDriver)  # Retry after refresh
-                    addToLogs(f"{idx + start} ✅ (retry)")  # Log retry success
-                except Exception as e:
-                    print(f"Final Fail for {idx + start}: {e}")
-                    chromeDriver.screenshot(idx)
-                    addToLogs(f"{idx + start} ❌")  # Log failure
-                    log_failed(idx)
-
-        chromeDriver.shutdown()
-        addToLogs(f"Ended range of {start} {end} \n \n")
+    database.close()
 
 
 main()

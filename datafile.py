@@ -43,6 +43,17 @@ def read_json(file_path):
         return None
 
 
-def log_failed(idx):
-    with open("failed.txt", "a") as f:
-        f.write(f"{idx}\n")
+def json_report(item):
+    FILE_PATH = read_json("database_settings.json")["json_report"]
+
+    if not os.path.exists(FILE_PATH):
+        with open(FILE_PATH, "w") as f:
+            json.dump([], f)
+
+    with open(FILE_PATH, "r") as f:
+        data = json.load(f)
+
+    data.append(item)
+
+    with open(FILE_PATH, "w") as f:
+        json.dump(data, f, indent=4)

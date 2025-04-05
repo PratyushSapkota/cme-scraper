@@ -168,6 +168,8 @@ class ChromeDriver:
         # Track new request count for VOI
         initial_request_count = len(self.driver.requests)
         voi_url = voi_button_element.get_attribute("href")
+        
+        time.sleep(30)
         self.driver.get(voi_url)
 
         voi_target_url_part = "CmeWS/mvc/Volume/LastTotals"
