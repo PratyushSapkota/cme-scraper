@@ -35,7 +35,7 @@ class RowCounter:
 # === FastAPI route ===
 @app.get("/report/{param}")
 def report(param: str):
-    table_name = read_json("database_settings.json")["tableName"]
+    table_name = param
     row_counter = RowCounter()
     count = row_counter.count_rows(table_name)
     row_counter.close()
