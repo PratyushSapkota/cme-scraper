@@ -1,0 +1,1718 @@
+[
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/stir/three-month-sofr_contractSpecs_options.html?optionProductId=8849",
+        "product": "Options on Three-Month SOFR Futures",
+        "oi": "27,474,517",
+        "volume": "2,697,799"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/crude-oil/light-sweet-crude_contract_specifications.html",
+        "product": "Crude Oil Futures",
+        "oi": "1,908,684",
+        "volume": "1,992,017"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/10-year-us-treasury-note_contractSpecs_options.html?optionProductId=317",
+        "product": "10-Year T-Note Options",
+        "oi": "3,721,251",
+        "volume": "1,370,433"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=2915",
+        "product": "E-mini S&P 500 Friday Weekly Options - Week 1",
+        "oi": "44,550",
+        "volume": "849,724"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/stir/three-month-sofr_contractSpecs_options.html?optionProductId=8850",
+        "product": "One-Year Mid-Curve Options on Three-Month SOFR Futures",
+        "oi": "6,132,541",
+        "volume": "833,825"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=190",
+        "product": "Crude Oil Option",
+        "oi": "2,377,296",
+        "volume": "535,645"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=8292",
+        "product": "E-mini S&P 500 Monday Weekly Options - Week 1",
+        "oi": "492,680",
+        "volume": "517,089"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/5-year-us-treasury-note_contractSpecs_options.html?optionProductId=330",
+        "product": "5-Year T-Note Options",
+        "oi": "1,188,075",
+        "volume": "487,103"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/natural-gas/natural-gas_contractSpecs_options.html?optionProductId=1352",
+        "product": "Natural Gas Option (European)",
+        "oi": "4,749,465",
+        "volume": "474,799"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/30-year-us-treasury-bond_contractSpecs_options.html?optionProductId=308",
+        "product": "U.S. Treasury Bond Options",
+        "oi": "726,616",
+        "volume": "409,683"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/10-year-us-treasury-note_contractSpecs_options.html?optionProductId=6082",
+        "product": "10-Year T-Note Weekly Options - Week 2",
+        "oi": "466,027",
+        "volume": "360,824"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/10-year-us-treasury-note_contractSpecs_options.html?optionProductId=6081",
+        "product": "10-Year T-Note Weekly Options - Week 1",
+        "oi": "0",
+        "volume": "348,325"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=8019",
+        "product": "E-mini S&P 500 Friday Weekly Options - Week 3",
+        "oi": "1,134,621",
+        "volume": "309,804"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/e-mini-sandp500_contractSpecs_options.html?optionProductId=10139",
+        "product": "E-mini S&P 500 Thursday Weekly Options - Week 3",
+        "oi": "657,523",
+        "volume": "280,743"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/soybean_contractSpecs_options.html?optionProductId=321",
+        "product": "Soybean Options",
+        "oi": "770,393",
+        "volume": "264,918"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=138",
+        "product": "E-mini S&P 500 Options",
+        "oi": "1,084,767",
+        "volume": "256,915"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/stir/three-month-sofr_contractSpecs_options.html?optionProductId=8856",
+        "product": "Two-Year Mid-Curve Options on Three-Month SOFR Futures",
+        "oi": "1,892,922",
+        "volume": "252,169"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=2916",
+        "product": "E-mini S&P 500 Friday Weekly Options - Week 2",
+        "oi": "379,017",
+        "volume": "251,998"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/10-year-us-treasury-note_contractSpecs_options.html?optionProductId=8355",
+        "product": "10-Year Treasury Note Wednesday Weekly Options - Week 2",
+        "oi": "252,786",
+        "volume": "231,772"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=136",
+        "product": "E-mini S&P 500 EOM Options",
+        "oi": "723,216",
+        "volume": "228,236"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/precious/gold_contractSpecs_options.html?optionProductId=192",
+        "product": "Gold Option",
+        "oi": "1,000,324",
+        "volume": "218,800"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/interest-rates/us-treasury/10-year-us-treasury-note_contractSpecs_options.html?optionProductId=10594",
+        "product": "10-Year Treasury Note Monday Weekly Options - Week 1",
+        "oi": "156,116",
+        "volume": "166,679"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/2-year-us-treasury-note_contractSpecs_options.html?optionProductId=304",
+        "product": "2-Year T-Note Options",
+        "oi": "352,392",
+        "volume": "141,089"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/corn_contractSpecs_options.html?optionProductId=301",
+        "product": "Corn Options",
+        "oi": "1,629,768",
+        "volume": "108,080"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/5-year-us-treasury-note_contractSpecs_options.html?optionProductId=6087",
+        "product": "5-Year T-Note Weekly Options - Week 2",
+        "oi": "126,363",
+        "volume": "102,569"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/e-mini-sandp500_contractSpecs_options.html?optionProductId=10133",
+        "product": "E-mini S&P 500 Tuesday Weekly Options - Week 2",
+        "oi": "81,244",
+        "volume": "82,118"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/10-year-us-treasury-note_contractSpecs_options.html?optionProductId=6083",
+        "product": "10-Year T-Note Weekly Options - Week 3",
+        "oi": "84,846",
+        "volume": "62,964"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/30-year-us-treasury-bond_contractSpecs_options.html?optionProductId=6076",
+        "product": "U.S. Treasury Bond Weekly Options - Week 1",
+        "oi": "0",
+        "volume": "59,434"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=8228",
+        "product": "E-mini S&P 500 Wednesday Weekly Options - Week 2",
+        "oi": "100,690",
+        "volume": "54,201"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/livestock/live-cattle_contractSpecs_options.html?optionProductId=23",
+        "product": "Live Cattle Options",
+        "oi": "317,347",
+        "volume": "52,473"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/5-year-us-treasury-note_contractSpecs_options.html?optionProductId=6086",
+        "product": "5-Year T-Note Weekly Options - Week 1",
+        "oi": "0",
+        "volume": "51,236"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=5222",
+        "product": "E-mini S&P 500 Friday Weekly Options - Week 4",
+        "oi": "81,787",
+        "volume": "49,436"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/5-year-us-treasury-note_contractSpecs_options.html?optionProductId=8350",
+        "product": "5-Year Treasury Note Wednesday Weekly Options - Week 2",
+        "oi": "42,277",
+        "volume": "48,363"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=5395",
+        "product": "E-mini Nasdaq-100 Friday Weekly Options - Week 1",
+        "oi": "1,419",
+        "volume": "47,035"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/base/copper_contractSpecs_options.html?optionProductId=797",
+        "product": "Copper Option",
+        "oi": "151,053",
+        "volume": "45,308"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/30-year-us-treasury-bond_contractSpecs_options.html?optionProductId=6077",
+        "product": "U.S. Treasury Bond Weekly Options - Week 2",
+        "oi": "76,007",
+        "volume": "43,574"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/2-year-us-treasury-note_contractSpecs_options.html?optionProductId=6091",
+        "product": "2-Year T-Note Weekly Options - Week 1",
+        "oi": "0",
+        "volume": "40,999"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/interest-rates/us-treasury/30-year-us-treasury-bond_contractSpecs_options.html?optionProductId=10604",
+        "product": "U.S. Treasury Bond Monday Weekly Options - Week 1",
+        "oi": "30,661",
+        "volume": "40,484"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/stir/three-month-sofr_contractSpecs_options.html?optionProductId=8862",
+        "product": "Three-Year Mid-Curve Options on Three-Month SOFR Futures",
+        "oi": "732,977",
+        "volume": "36,865"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/natural-gas/natural-gas_contractSpecs_options.html?optionProductId=2946",
+        "product": "Natural Gas (Henry Hub) Last-day Financial 1 Month Spread Option",
+        "oi": "165,075",
+        "volume": "36,400"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/wheat_contractSpecs_options.html?optionProductId=324",
+        "product": "Chicago SRW Wheat Options",
+        "oi": "397,912",
+        "volume": "34,513"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/euro-fx_contractSpecs_options.html?optionProductId=8116",
+        "product": "EUR/USD Monthly Options",
+        "oi": "332,836",
+        "volume": "33,883"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/soybean-oil_contractSpecs_options.html?optionProductId=313",
+        "product": "Soybean Oil Options",
+        "oi": "191,496",
+        "volume": "32,099"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/precious/silver_contractSpecs_options.html?optionProductId=193",
+        "product": "Silver Option",
+        "oi": "111,565",
+        "volume": "30,707"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/interest-rates/us-treasury/5-year-us-treasury-note_contractSpecs_options.html?optionProductId=10589",
+        "product": "5-Year Treasury Note Monday Weekly Options - Week 1",
+        "oi": "31,238",
+        "volume": "30,371"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/livestock/lean-hogs_contractSpecs_options.html?optionProductId=21",
+        "product": "Lean Hog Options",
+        "oi": "408,902",
+        "volume": "29,195"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/e-mini-sandp500_contractSpecs_options.html?optionProductId=10138",
+        "product": "E-mini S&P 500 Thursday Weekly Options - Week 2",
+        "oi": "66,103",
+        "volume": "27,890"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=6745",
+        "product": "E-mini Nasdaq-100 EOM Options",
+        "oi": "79,158",
+        "volume": "27,390"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/soybean_contractSpecs_options.html?optionProductId=6757",
+        "product": "Short-Dated New Crop Soybean Options",
+        "oi": "84,004",
+        "volume": "26,930"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=8293",
+        "product": "E-mini S&P 500 Monday Weekly Options - Week 2",
+        "oi": "50,887",
+        "volume": "26,194"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/soybean-meal_contractSpecs_options.html?optionProductId=311",
+        "product": "Soybean Meal Options",
+        "oi": "223,546",
+        "volume": "24,869"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/30-year-us-treasury-bond_contractSpecs_options.html?optionProductId=6078",
+        "product": "U.S. Treasury Bond Weekly Options - Week 3",
+        "oi": "23,409",
+        "volume": "22,987"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/corn_contractSpecs_options.html?optionProductId=6244",
+        "product": "Corn Friday Weekly Options - Week 1",
+        "oi": "699",
+        "volume": "22,902"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=9004",
+        "product": "E-mini Nasdaq-100 Monday Weekly Options - Week 1",
+        "oi": "12,874",
+        "volume": "19,605"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/interest-rates/us-treasury/10-year-us-treasury-note_contractSpecs_options.html?optionProductId=10595",
+        "product": "10-Year Treasury Note Monday Weekly Options - Week 2",
+        "oi": "17,663",
+        "volume": "19,333"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/micro-e-mini-sandp-500_contractSpecs_options.html?optionProductId=8929",
+        "product": "Micro E-mini S&P 500 Weekly Options - Week 1",
+        "oi": "269",
+        "volume": "18,906"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/precious/gold_contractSpecs_options.html?optionProductId=7488",
+        "product": "Gold Weekly Friday Option - Week 1",
+        "oi": "1,781",
+        "volume": "18,899"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/e-mini-sandp500_contractSpecs_options.html?optionProductId=10135",
+        "product": "E-mini S&P 500 Tuesday Weekly Options - Week 4",
+        "oi": "17,404",
+        "volume": "18,879"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/30-year-us-treasury-bond_contractSpecs_options.html?optionProductId=8365",
+        "product": "U.S. Treasury Bond Wednesday Weekly Options - Week 2",
+        "oi": "23,822",
+        "volume": "17,478"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/euro-fx_contractSpecs_options.html?optionProductId=8118",
+        "product": "EUR/USD Weekly Friday Options - Week 2",
+        "oi": "36,446",
+        "volume": "17,278"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/2-year-us-treasury-note_contractSpecs_options.html?optionProductId=6092",
+        "product": "2-Year T-Note Weekly Options - Week 2",
+        "oi": "24,576",
+        "volume": "17,064"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/japanese-yen_contractSpecs_options.html?optionProductId=8122",
+        "product": "JPY/USD Monthly Options",
+        "oi": "127,513",
+        "volume": "16,345"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/e-mini-sandp500_contractSpecs_options.html?optionProductId=10134",
+        "product": "E-mini S&P 500 Tuesday Weekly Options - Week 3",
+        "oi": "22,881",
+        "volume": "15,384"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/soybean_contractSpecs_options.html?optionProductId=6249",
+        "product": "Soybean Friday Weekly Options - Week 1",
+        "oi": "672",
+        "volume": "14,745"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/precious/gold_contractSpecs_options.html?optionProductId=7489",
+        "product": "Gold Weekly Friday Option - Week 2",
+        "oi": "17,206",
+        "volume": "14,341"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=7503",
+        "product": "Crude Oil Friday Weekly Option - Week 1",
+        "oi": "616",
+        "volume": "14,297"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/nasdaq/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=10233",
+        "product": "E-mini Nasdaq-100 Thursday Weekly Options - Week 3",
+        "oi": "29,528",
+        "volume": "13,628"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/livestock/feeder-cattle_contractSpecs_options.html?optionProductId=864",
+        "product": "Feeder Cattle Options",
+        "oi": "105,835",
+        "volume": "13,602"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/australian-dollar_contractSpecs_options.html?optionProductId=8092",
+        "product": "AUD/USD Monthly Options",
+        "oi": "37,633",
+        "volume": "13,093"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=7504",
+        "product": "Crude Oil Friday Weekly Option - Week 2",
+        "oi": "14,849",
+        "volume": "13,052"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=8229",
+        "product": "E-mini S&P 500 Wednesday Weekly Options - Week 3",
+        "oi": "31,835",
+        "volume": "12,309"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/natural-gas/natural-gas_contractSpecs_options.html?optionProductId=191",
+        "product": "Natural Gas Option (American)",
+        "oi": "96,572",
+        "volume": "12,013"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=148",
+        "product": "E-mini Nasdaq-100 Options",
+        "oi": "47,958",
+        "volume": "11,714"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=2952",
+        "product": "Crude Oil Financial Calendar Spread Option 1 Month",
+        "oi": "386,408",
+        "volume": "11,150"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/corn_contractSpecs_options.html?optionProductId=6756",
+        "product": "Short-Dated New Crop Corn Options",
+        "oi": "236,551",
+        "volume": "10,631"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/micro-e-mini-sandp-500_contractSpecs_options.html?optionProductId=8931",
+        "product": "Micro E-mini S&P 500 Weekly Options - Week 3",
+        "oi": "23,090",
+        "volume": "9,769"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/micro-e-mini-sandp-500_contractSpecs_options.html?optionProductId=8933",
+        "product": "Micro E-mini S&P 500 EOM Options",
+        "oi": "14,370",
+        "volume": "9,684"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10143",
+        "product": "Gold Weekly Monday Option - Week 1",
+        "oi": "12,450",
+        "volume": "9,109"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/5-year-us-treasury-note_contractSpecs_options.html?optionProductId=6088",
+        "product": "5-Year T-Note Weekly Options - Week 3",
+        "oi": "13,374",
+        "volume": "9,052"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-russell-2000_contractSpecs_options.html?optionProductId=8326",
+        "product": "E-mini  Russell 2000 Options",
+        "oi": "27,884",
+        "volume": "8,204"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=8294",
+        "product": "E-mini S&P 500 Monday Weekly Options - Week 3",
+        "oi": "31,179",
+        "volume": "8,081"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/natural-gas/natural-gas_contractSpecs_options.html?optionProductId=2948",
+        "product": "Natural Gas (Henry Hub) Last-day Financial 3 Month Spread Option",
+        "oi": "239,750",
+        "volume": "7,300"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/canadian-dollar_contractSpecs_options.html?optionProductId=8104",
+        "product": "CAD/USD Monthly Options",
+        "oi": "61,301",
+        "volume": "7,254"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/kc-wheat_contractSpecs_options.html?optionProductId=349",
+        "product": "KC HRW Wheat Options",
+        "oi": "87,036",
+        "volume": "7,242"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/micro-e-mini-sandp-500_contractSpecs_options.html?optionProductId=10331",
+        "product": "Micro E-mini S&P 500 Monday Weekly Options - Week 1",
+        "oi": "5,541",
+        "volume": "6,603"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=5396",
+        "product": "E-mini Nasdaq-100 Friday Weekly Options - Week 2",
+        "oi": "11,987",
+        "volume": "6,597"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-russell-2000_contractSpecs_options.html?optionProductId=8329",
+        "product": "E-mini Russell 2000 Friday Weekly Options - Week 3",
+        "oi": "11,953",
+        "volume": "6,410"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=8230",
+        "product": "E-mini S&P 500 Wednesday Weekly Options - Week 4",
+        "oi": "15,506",
+        "volume": "6,314"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/soybean_contractSpecs_options.html?optionProductId=6250",
+        "product": "Soybean Friday Weekly Options - Week 2",
+        "oi": "5,604",
+        "volume": "6,280"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=10497",
+        "product": "Crude Oil Monday Weekly Option - Week 1",
+        "oi": "9,934",
+        "volume": "6,175"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=769",
+        "product": "WTI Crude Oil 1 Month Calendar Spread Option",
+        "oi": "143,825",
+        "volume": "6,000"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/e-mini-sandp500_contractSpecs_options.html?optionProductId=10140",
+        "product": "E-mini S&P 500 Thursday Weekly Options - Week 4",
+        "oi": "11,231",
+        "volume": "5,981"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=8044",
+        "product": "E-mini Nasdaq-100 Friday Weekly Options - Week 3",
+        "oi": "21,198",
+        "volume": "5,654"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/micro-e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=8935",
+        "product": "Micro E-mini Nasdaq-100 Weekly Options - Week 1",
+        "oi": "21",
+        "volume": "5,318"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-russell-2000_contractSpecs_options.html?optionProductId=8332",
+        "product": "E-mini  Russell 2000 EOM Options",
+        "oi": "9,594",
+        "volume": "4,913"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/corn_contractSpecs_options.html?optionProductId=6245",
+        "product": "Corn Friday Weekly Options - Week 2",
+        "oi": "13,288",
+        "volume": "4,742"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/interest-rates/us-treasury/5-year-us-treasury-note_contractSpecs_options.html?optionProductId=10590",
+        "product": "5-Year Treasury Note Monday Weekly Options - Week 2",
+        "oi": "4,929",
+        "volume": "4,643"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=10503",
+        "product": "Crude Oil Wednesday Weekly Option - Week 2",
+        "oi": "6,417",
+        "volume": "4,595"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/micro-e-mini-sandp-500_contractSpecs_options.html?optionProductId=8930",
+        "product": "Micro E-mini S&P 500 Weekly Options - Week 2",
+        "oi": "4,873",
+        "volume": "4,199"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/interest-rates/us-treasury/2-year-us-treasury-note_contractSpecs_options.html?optionProductId=10584",
+        "product": "2-Year Treasury Note Monday Weekly Options - Week 1",
+        "oi": "4,261",
+        "volume": "4,035"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/russell/e-mini-russell-2000_contractSpecs_options.html?optionProductId=10053",
+        "product": "E-mini Russell 2000 Monday Weekly Options - Week 1",
+        "oi": "3,231",
+        "volume": "3,720"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-russell-2000_contractSpecs_options.html?optionProductId=8327",
+        "product": "E-mini Russell 2000 Friday Weekly Options - Week 1",
+        "oi": "588",
+        "volume": "3,593"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=8295",
+        "product": "E-mini S&P 500 Monday Weekly Options - Week 4",
+        "oi": "16,116",
+        "volume": "3,541"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-russell-2000_contractSpecs_options.html?optionProductId=8328",
+        "product": "E-mini Russell 2000 Friday Weekly Options - Week 2",
+        "oi": "4,956",
+        "volume": "3,481"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/ultra-t-bond_contractSpecs_options.html?optionProductId=4358",
+        "product": "Ultra U.S. Treasury Bond Options",
+        "oi": "16,939",
+        "volume": "3,390"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/nasdaq/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=10227",
+        "product": "E-mini Nasdaq-100 Tuesday Weekly Options - Week 2",
+        "oi": "4,023",
+        "volume": "3,266"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/2-year-us-treasury-note_contractSpecs_options.html?optionProductId=8345",
+        "product": "2-Year Treasury Note Wednesday Weekly Options - Week 2",
+        "oi": "3,966",
+        "volume": "2,997"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10148",
+        "product": "Gold Weekly Wednesday Option - Week 2",
+        "oi": "6,164",
+        "volume": "2,933"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/japanese-yen_contractSpecs_options.html?optionProductId=8124",
+        "product": "JPY/USD Weekly Friday Options - Week 2",
+        "oi": "6,462",
+        "volume": "2,841"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/precious/gold_contractSpecs_options.html?optionProductId=7491",
+        "product": "Gold Weekly Friday Option - Week 4",
+        "oi": "4,534",
+        "volume": "2,841"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/british-pound_contractSpecs_options.html?optionProductId=8098",
+        "product": "GBP/USD Monthly Options",
+        "oi": "56,217",
+        "volume": "2,655"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/russell/e-mini-russell-2000_contractSpecs_options.html?optionProductId=10328",
+        "product": "E-mini Russell 2000 Thursday Weekly Options - Week 3",
+        "oi": "7,012",
+        "volume": "2,519"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/stir/three-month-sofr_contractSpecs_options.html?optionProductId=8851",
+        "product": "Weekly One-Year Mid-Curve Options on Three-Month SOFR Futures - Week 1",
+        "oi": "0",
+        "volume": "2,500"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=9010",
+        "product": "E-mini Nasdaq-100 Wednesday Weekly Options - Week 2",
+        "oi": "3,707",
+        "volume": "2,495"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10149",
+        "product": "Gold Weekly Wednesday Option - Week 3",
+        "oi": "4,493",
+        "volume": "2,473"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/australian-dollar_contractSpecs_options.html?optionProductId=8886",
+        "product": "AUD/USD Weekly Monday Options - Week 1",
+        "oi": "2,511",
+        "volume": "2,457"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/agriculture/grains/corn_contractSpecs_options.html?optionProductId=10309",
+        "product": "New Crop Corn Weekly Options - Week 1",
+        "oi": "0",
+        "volume": "2,391"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/nasdaq/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=10232",
+        "product": "E-mini Nasdaq-100 Thursday Weekly Options - Week 2",
+        "oi": "2,901",
+        "volume": "2,356"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=5397",
+        "product": "E-mini Nasdaq-100 Friday Weekly Options - Week 4",
+        "oi": "4,629",
+        "volume": "2,342"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/micro-e-mini-sandp-500_contractSpecs_options.html?optionProductId=10348",
+        "product": "Micro E-mini S&P 500 Thursday Weekly Options - Week 3",
+        "oi": "4,384",
+        "volume": "2,315"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/interest-rates/us-treasury/30-year-us-treasury-bond_contractSpecs_options.html?optionProductId=10605",
+        "product": "U.S. Treasury Bond Monday Weekly Options - Week 2",
+        "oi": "2,913",
+        "volume": "2,172"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/euro-fx_contractSpecs_options.html?optionProductId=8119",
+        "product": "EUR/USD Weekly Friday Options - Week 3",
+        "oi": "9,047",
+        "volume": "2,123"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=7506",
+        "product": "Crude Oil Friday Weekly Option - Week 4",
+        "oi": "3,337",
+        "volume": "2,095"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/refined-products/heating-oil_contractSpecs_options.html?optionProductId=194",
+        "product": "NY Harbor ULSD Option",
+        "oi": "31,405",
+        "volume": "2,052"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/nasdaq/micro-e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=10351",
+        "product": "Micro E-mini Nasdaq-100 Monday Weekly Options - Week 1",
+        "oi": "1,752",
+        "volume": "1,991"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/micro-e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=8934",
+        "product": "Micro E-mini Nasdaq-100 Options",
+        "oi": "21,446",
+        "volume": "1,982"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/dairy/class-iii-milk_contractSpecs_options.html?optionProductId=776",
+        "product": "Class III Milk Options",
+        "oi": "83,930",
+        "volume": "1,950"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-russell-2000_contractSpecs_options.html?optionProductId=8330",
+        "product": "E-mini Russell 2000 Friday Weekly Options - Week 4",
+        "oi": "2,081",
+        "volume": "1,911"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10622",
+        "product": "Gold Weekly Tuesday Option - Week 2",
+        "oi": "3,966",
+        "volume": "1,908"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/energy/crude-oil/micro-wti-crude-oil_contractSpecs_options.html?optionProductId=10174",
+        "product": "Micro WTI Crude Oil Option",
+        "oi": "5,353",
+        "volume": "1,834"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10627",
+        "product": "Gold Weekly Thursday Option - Week 2",
+        "oi": "3,793",
+        "volume": "1,761"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/nasdaq/micro-e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=10368",
+        "product": "Micro E-mini Nasdaq-100 Thursday Weekly Options - Week 3",
+        "oi": "4,747",
+        "volume": "1,739"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/agriculture/grains/corn_contractSpecs_options.html?optionProductId=10310",
+        "product": "New Crop Corn Weekly Options - Week 2",
+        "oi": "5,041",
+        "volume": "1,643"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/canadian-dollar_contractSpecs_options.html?optionProductId=8896",
+        "product": "CAD/USD Weekly Monday Options - Week 1",
+        "oi": "1,590",
+        "volume": "1,575"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/precious/silver_contractSpecs_options.html?optionProductId=7494",
+        "product": "Silver Weekly Friday Option - Week 2",
+        "oi": "3,191",
+        "volume": "1,543"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/dairy/cheese_contractSpecs_options.html?optionProductId=5202",
+        "product": "Cash-Settled Cheese Options",
+        "oi": "26,254",
+        "volume": "1,530"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/australian-dollar_contractSpecs_options.html?optionProductId=8094",
+        "product": "AUD/USD Weekly Friday Options - Week 2",
+        "oi": "2,745",
+        "volume": "1,529"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/japanese-yen_contractSpecs_options.html?optionProductId=8906",
+        "product": "JPY/USD Weekly Monday Options - Week 1",
+        "oi": "2,180",
+        "volume": "1,502"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/ultra-10-year-us-treasury-note_contractSpecs_options.html?optionProductId=7979",
+        "product": "Ultra 10-Year U.S. Treasury Note Options",
+        "oi": "30,275",
+        "volume": "1,483"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/micro-e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=8936",
+        "product": "Micro E-mini Nasdaq-100 Weekly Options - Week 2",
+        "oi": "1,797",
+        "volume": "1,477"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/micro-e-mini-sandp-500_contractSpecs_options.html?optionProductId=10337",
+        "product": "Micro E-mini S&P 500 Tuesday Weekly Options - Week 2",
+        "oi": "1,455",
+        "volume": "1,382"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/australian-dollar_contractSpecs_options.html?optionProductId=8411",
+        "product": "AUD/USD Weekly Wednesday Options - Week 2",
+        "oi": "2,279",
+        "volume": "1,378"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/e-mini-sandp500_contractSpecs_options.html?optionProductId=10137",
+        "product": "E-mini S&P 500 Thursday Weekly Options - Week 1",
+        "oi": "4,095",
+        "volume": "1,374"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/wheat_contractSpecs_options.html?optionProductId=6254",
+        "product": "Chicago SRW Wheat Friday Weekly Options - Week 1",
+        "oi": "107",
+        "volume": "1,305"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/euro-fx_contractSpecs_options.html?optionProductId=8443",
+        "product": "EUR/USD Weekly Wednesday Options - Week 4",
+        "oi": "1,301",
+        "volume": "1,300"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=10734",
+        "product": "Crude Oil Tuesday Weekly Option - Week 2",
+        "oi": "2,877",
+        "volume": "1,236"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/micro-e-mini-sandp-500_contractSpecs_options.html?optionProductId=8928",
+        "product": "Micro E-mini S&P 500 Options",
+        "oi": "3,758",
+        "volume": "1,181"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/russell/e-mini-russell-2000_contractSpecs_options.html?optionProductId=10322",
+        "product": "E-mini Russell 2000 Tuesday Weekly Options - Week 2",
+        "oi": "1,145",
+        "volume": "1,175"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10144",
+        "product": "Gold Weekly Monday Option - Week 2",
+        "oi": "2,586",
+        "volume": "1,152"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/canadian-dollar_contractSpecs_options.html?optionProductId=8108",
+        "product": "CAD/USD Weekly Friday Options - Week 4",
+        "oi": "2,387",
+        "volume": "1,149"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/refined-products/nymex-new-york-harbor-heating-oil-calendar-swap_contractSpecs_options.html?optionProductId=2770",
+        "product": "NY Harbor ULSD Average Price Option",
+        "oi": "33,189",
+        "volume": "1,133"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/wheat_contractSpecs_options.html?optionProductId=6255",
+        "product": "Chicago SRW Wheat Friday Weekly Options - Week 2",
+        "oi": "3,557",
+        "volume": "1,084"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/micro-e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=8939",
+        "product": "Micro E-mini Nasdaq-100 Index EOM Options",
+        "oi": "5,885",
+        "volume": "1,072"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/e-mini-sandp500_contractSpecs_options.html?optionProductId=10136",
+        "product": "E-mini S&P 500 Tuesday Weekly Options - Week 5",
+        "oi": "3,290",
+        "volume": "1,045"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/japanese-yen_contractSpecs_options.html?optionProductId=8125",
+        "product": "JPY/USD Weekly Friday Options - Week 3",
+        "oi": "3,892",
+        "volume": "1,013"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/precious/silver_contractSpecs_options.html?optionProductId=7493",
+        "product": "Silver Weekly Friday Option - Week 1",
+        "oi": "153",
+        "volume": "1,012"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/crude-oil/brent-crude-oil-last-day_contractSpecs_options.html?optionProductId=7950",
+        "product": "Brent Crude Oil Futures-Style Margin Option",
+        "oi": "57,850",
+        "volume": "1,000"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/natural-gas/natural-gas_contractSpecs_options.html?optionProductId=2950",
+        "product": "Natural Gas (Henry Hub) Last-day Financial 6 Month Spread Option",
+        "oi": "4,000",
+        "volume": "1,000"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/euro-fx_contractSpecs_options.html?optionProductId=8901",
+        "product": "EUR/USD Weekly Monday Options - Week 1",
+        "oi": "7,020",
+        "volume": "991"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=9005",
+        "product": "E-mini Nasdaq-100 Monday Weekly Options - Week 2",
+        "oi": "1,818",
+        "volume": "989"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/swiss-franc_contractSpecs_options.html?optionProductId=8110",
+        "product": "CHF/USD Monthly Options",
+        "oi": "19,835",
+        "volume": "974"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/micro-e-mini-sandp-500_contractSpecs_options.html?optionProductId=8932",
+        "product": "Micro E-mini S&P 500 Weekly Options - Week 4",
+        "oi": "1,400",
+        "volume": "965"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/japanese-yen_contractSpecs_options.html?optionProductId=8451",
+        "product": "JPY/USD Weekly Wednesday Options - Week 2",
+        "oi": "3,154",
+        "volume": "963"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/fx/g10/british-pound_contractSpecs_options.html?optionProductId=10257",
+        "product": "GBP/USD Weekly Tuesday Options - Week 2",
+        "oi": "973",
+        "volume": "960"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_contractSpecs_options.html?optionProductId=8227",
+        "product": "E-mini S&P 500 Wednesday Weekly Options - Week 1",
+        "oi": "2,415",
+        "volume": "937"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/euro-fx_contractSpecs_options.html?optionProductId=8441",
+        "product": "EUR/USD Weekly Wednesday Options - Week 2",
+        "oi": "6,866",
+        "volume": "924"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/precious/platinum_contractSpecs_options.html?optionProductId=2910",
+        "product": "Platinum Option",
+        "oi": "21,409",
+        "volume": "921"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/micro-e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=8937",
+        "product": "Micro E-mini Nasdaq-100 Weekly Options - Week 3",
+        "oi": "8,283",
+        "volume": "918"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10145",
+        "product": "Gold Weekly Monday Option - Week 3",
+        "oi": "2,225",
+        "volume": "912"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/corn_contractSpecs_options.html?optionProductId=2730",
+        "product": "Consecutive Corn CSO",
+        "oi": "66,482",
+        "volume": "880"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/fx/g10/japanese-yen_contractSpecs_options.html?optionProductId=10277",
+        "product": "JPY/USD Weekly Tuesday Options - Week 2",
+        "oi": "1,479",
+        "volume": "879"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10628",
+        "product": "Gold Weekly Thursday Option - Week 3",
+        "oi": "1,882",
+        "volume": "840"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/agriculture/oilseeds/soybean_contractSpecs_options.html?optionProductId=10314",
+        "product": "New Crop Soybean Weekly Options - Week 1",
+        "oi": "0",
+        "volume": "807"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/micro-e-mini-sandp-500_contractSpecs_options.html?optionProductId=10342",
+        "product": "Micro E-mini S&P 500 Wednesday Weekly Options - Week 2",
+        "oi": "954",
+        "volume": "789"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/soybean-oil_contractSpecs_options.html?optionProductId=6378",
+        "product": "Soybean Oil Friday Weekly Options - Week 2",
+        "oi": "2,183",
+        "volume": "783"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/soybean-oil_contractSpecs_options.html?optionProductId=6377",
+        "product": "Soybean Oil Friday Weekly Options - Week 1",
+        "oi": "59",
+        "volume": "767"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/silver_contractSpecs_options.html?optionProductId=10151",
+        "product": "Silver Weekly Monday Option - Week 1",
+        "oi": "1,247",
+        "volume": "758"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/bitcoin_contractSpecs_options.html?optionProductId=8875",
+        "product": "Options on Bitcoin Futures",
+        "oi": "6,669",
+        "volume": "728"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/micro-bitcoin_contractSpecs_options.html?optionProductId=10090",
+        "product": "Monday Weekly Options on Micro Bitcoin Futures - Week 1",
+        "oi": "742",
+        "volume": "724"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/nasdaq/micro-e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=10357",
+        "product": "Micro E-mini Nasdaq-100 Tuesday Weekly Options - Week 2",
+        "oi": "535",
+        "volume": "722"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/canadian-dollar_contractSpecs_options.html?optionProductId=8105",
+        "product": "CAD/USD Weekly Friday Options - Week 1",
+        "oi": "1,163",
+        "volume": "716"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/euro-fx_contractSpecs_options.html?optionProductId=8117",
+        "product": "EUR/USD Weekly Friday Options - Week 1",
+        "oi": "1,737",
+        "volume": "656"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/micro-bitcoin_contractSpecs_options.html?optionProductId=10105",
+        "product": "Monthly Options on Micro Bitcoin Futures",
+        "oi": "13,203",
+        "volume": "636"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/russell/e-mini-russell-2000_contractSpecs_options.html?optionProductId=10327",
+        "product": "E-mini Russell 2000 Thursday Weekly Options - Week 2",
+        "oi": "1,052",
+        "volume": "624"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/fx/g10/canadian-dollar_contractSpecs_options.html?optionProductId=10272",
+        "product": "CAD/USD Weekly Thursday Options - Week 2",
+        "oi": "602",
+        "volume": "600"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=10739",
+        "product": "Crude Oil Thursday Weekly Option - Week 2",
+        "oi": "860",
+        "volume": "568"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/russell/e-mini-russell-2000_contractSpecs_options.html?optionProductId=10059",
+        "product": "E-mini Russell 2000 Wednesday Weekly Options - Week 2",
+        "oi": "1,122",
+        "volume": "562"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=1353",
+        "product": "Light Sweet Crude Oil European Financial Option",
+        "oi": "82,943",
+        "volume": "551"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/precious/silver_contractSpecs_options.html?optionProductId=7496",
+        "product": "Silver Weekly Friday Option - Week 4",
+        "oi": "766",
+        "volume": "543"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=10740",
+        "product": "Crude Oil Thursday Weekly Option - Week 3",
+        "oi": "943",
+        "volume": "539"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/2-year-us-treasury-note_contractSpecs_options.html?optionProductId=6093",
+        "product": "2-Year T-Note Weekly Options - Week 3",
+        "oi": "1,106",
+        "volume": "537"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/refined-products/rbob-gasoline_contractSpecs_options.html?optionProductId=195",
+        "product": "RBOB Gasoline Option",
+        "oi": "15,870",
+        "volume": "526"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/russell/e-mini-russell-2000_contractSpecs_options.html?optionProductId=10060",
+        "product": "E-mini Russell 2000 Wednesday Weekly Options - Week 3",
+        "oi": "984",
+        "volume": "525"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=10499",
+        "product": "Crude Oil Monday Weekly Option - Week 3",
+        "oi": "1,096",
+        "volume": "507"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/fx/g10/canadian-dollar_contractSpecs_options.html?optionProductId=10267",
+        "product": "CAD/USD Weekly Tuesday Options - Week 2",
+        "oi": "350",
+        "volume": "485"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/dairy/class-iv-milk_contractSpecs_options.html?optionProductId=779",
+        "product": "Class IV Milk Options",
+        "oi": "23,046",
+        "volume": "484"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/fx/g10/euro-fx_contractSpecs_options.html?optionProductId=10302",
+        "product": "EUR/USD Weekly Thursday Options - Week 2",
+        "oi": "2,267",
+        "volume": "456"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/base/copper_contractSpecs_options.html?optionProductId=10159",
+        "product": "Copper Weekly Monday Option - Week 1",
+        "oi": "405",
+        "volume": "451"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/russell/e-mini-russell-2000_contractSpecs_options.html?optionProductId=10054",
+        "product": "E-mini Russell 2000 Monday Weekly Options - Week 2",
+        "oi": "747",
+        "volume": "432"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10623",
+        "product": "Gold Weekly Tuesday Option - Week 3",
+        "oi": "2,658",
+        "volume": "417"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/base/copper_contractSpecs_options.html?optionProductId=7498",
+        "product": "Copper Weekly Friday Option - Week 1",
+        "oi": "0",
+        "volume": "412"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10150",
+        "product": "Gold Weekly Wednesday Option - Week 4",
+        "oi": "772",
+        "volume": "403"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/fx/g10/japanese-yen_contractSpecs_options.html?optionProductId=10278",
+        "product": "JPY/USD Weekly Tuesday Options - Week 3",
+        "oi": "402",
+        "volume": "402"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/weather/temperature/european-seasonal-strip-weather-cat_contractSpecs_options.html?optionProductId=1601",
+        "product": "Amsterdam CAT MAY Seasonal Strip Options",
+        "oi": "400",
+        "volume": "400"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/agriculture/grains/corn_contractSpecs_options.html?optionProductId=10960",
+        "product": "Corn Monday Weekly Options - Week 1",
+        "oi": "1,128",
+        "volume": "398"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/ultra-10-year-us-treasury-note_contractSpecs_options.html?optionProductId=8360",
+        "product": "Ultra 10-Year Treasury Note Wednesday Weekly Options - Week 2",
+        "oi": "389",
+        "volume": "389"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/micro-e-mini-sandp-500_contractSpecs_options.html?optionProductId=10347",
+        "product": "Micro E-mini S&P 500 Thursday Weekly Options - Week 2",
+        "oi": "405",
+        "volume": "356"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=10498",
+        "product": "Crude Oil Monday Weekly Option - Week 2",
+        "oi": "581",
+        "volume": "354"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/e-mini-sandp500_contractSpecs_options.html?optionProductId=10132",
+        "product": "E-mini S&P 500 Tuesday Weekly Options - Week 1",
+        "oi": "827",
+        "volume": "352"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/natural-gas/natural-gas_contractSpecs_options.html?optionProductId=7608",
+        "product": "Natural Gas Friday Weekly Financial Option - Week 2",
+        "oi": "487",
+        "volume": "346"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/crude-oil/west-texas-intermediate-wti-crude-oil-calendar-swap-futures_contractSpecs_options.html?optionProductId=2767",
+        "product": "WTI Average Price Option",
+        "oi": "413,173",
+        "volume": "340"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/nasdaq/micro-e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=10367",
+        "product": "Micro E-mini Nasdaq-100 Thursday Weekly Options - Week 2",
+        "oi": "327",
+        "volume": "334"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/canadian-dollar_contractSpecs_options.html?optionProductId=8433",
+        "product": "CAD/USD Weekly Wednesday Options - Week 4",
+        "oi": "618",
+        "volume": "318"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/corn_contractSpecs_options.html?optionProductId=2702",
+        "product": "Corn July-Dec CSO",
+        "oi": "31,003",
+        "volume": "316"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/canadian-dollar_contractSpecs_options.html?optionProductId=8107",
+        "product": "CAD/USD Weekly Friday Options - Week 3",
+        "oi": "1,230",
+        "volume": "307"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/ferrous/hrc-steel_contractSpecs_options.html?optionProductId=6593",
+        "product": "U.S. Midwest Domestic Hot-Rolled Coil Steel (CRU) Index Average Price Option",
+        "oi": "9,449",
+        "volume": "300"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/micro-e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=8938",
+        "product": "Micro E-mini Nasdaq-100 Weekly Options - Week 4",
+        "oi": "550",
+        "volume": "293"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/canadian-dollar_contractSpecs_options.html?optionProductId=8898",
+        "product": "CAD/USD Weekly Monday Options - Week 3",
+        "oi": "325",
+        "volume": "291"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/ultra-t-bond_contractSpecs_options.html?optionProductId=6071",
+        "product": "Ultra U.S. Treasury Bond Weekly Options - Week 1",
+        "oi": "0",
+        "volume": "287"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/euro-fx_contractSpecs_options.html?optionProductId=8442",
+        "product": "EUR/USD Weekly Wednesday Options - Week 3",
+        "oi": "1,845",
+        "volume": "284"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/micro-bitcoin_contractSpecs_options.html?optionProductId=10101",
+        "product": "Friday Weekly Options on Micro Bitcoin Futures - Week 2",
+        "oi": "1,957",
+        "volume": "275"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10168",
+        "product": "Gold Weekly Wednesday Option - Week 5",
+        "oi": "125",
+        "volume": "275"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/japanese-yen_contractSpecs_options.html?optionProductId=8123",
+        "product": "JPY/USD Weekly Friday Options - Week 1",
+        "oi": "1,633",
+        "volume": "270"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/soybean-meal_contractSpecs_options.html?optionProductId=6372",
+        "product": "Soybean Meal Friday Weekly Options - Week 1",
+        "oi": "71",
+        "volume": "269"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/soybean-meal_contractSpecs_options.html?optionProductId=6373",
+        "product": "Soybean Meal Friday Weekly Options - Week 2",
+        "oi": "331",
+        "volume": "268"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/japanese-yen_contractSpecs_options.html?optionProductId=8454",
+        "product": "JPY/USD Weekly Wednesday Options - Week 4",
+        "oi": "248",
+        "volume": "267"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/energy/crude-oil/micro-wti-crude-oil_contractSpecs_options.html?optionProductId=10176",
+        "product": "Micro WTI Crude Oil Weekly Option - Week 2",
+        "oi": "549",
+        "volume": "265"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/silver_contractSpecs_options.html?optionProductId=10635",
+        "product": "Silver Weekly Tuesday Option - Week 5",
+        "oi": "133",
+        "volume": "262"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/silver_contractSpecs_options.html?optionProductId=10157",
+        "product": "Silver Weekly Wednesday Option - Week 3",
+        "oi": "555",
+        "volume": "253"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=10735",
+        "product": "Crude Oil Tuesday Weekly Option - Week 3",
+        "oi": "637",
+        "volume": "248"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10626",
+        "product": "Gold Weekly Thursday Option - Week 1",
+        "oi": "741",
+        "volume": "238"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/silver_contractSpecs_options.html?optionProductId=10156",
+        "product": "Silver Weekly Wednesday Option - Week 2",
+        "oi": "535",
+        "volume": "237"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/british-pound_contractSpecs_options.html?optionProductId=8099",
+        "product": "GBP/USD Weekly Friday Options - Week 1",
+        "oi": "802",
+        "volume": "235"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/sp/sp-500-annual-dividend-index_contractSpecs_options.html?optionProductId=10655",
+        "product": "S&P 500 Annual Dividend Options",
+        "oi": "249,870",
+        "volume": "230"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/japanese-yen_contractSpecs_options.html?optionProductId=8452",
+        "product": "JPY/USD Weekly Wednesday Options - Week 3",
+        "oi": "1,234",
+        "volume": "228"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/rough-rice_contractSpecs_options.html?optionProductId=337",
+        "product": "Rough Rice Options",
+        "oi": "3,206",
+        "volume": "224"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/nasdaq/micro-e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=10362",
+        "product": "Micro E-mini Nasdaq-100 Wednesday Weekly Options - Week 2",
+        "oi": "291",
+        "volume": "224"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/base/copper_contractSpecs_options.html?optionProductId=10163",
+        "product": "Copper Weekly Wednesday Option - Week 1",
+        "oi": "3,249",
+        "volume": "220"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/silver_contractSpecs_options.html?optionProductId=10638",
+        "product": "Silver Weekly Thursday Option - Week 3",
+        "oi": "370",
+        "volume": "204"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/interest-rates/us-treasury/ultra-t-bond_contractSpecs_options.html?optionProductId=6072",
+        "product": "Ultra U.S. Treasury Bond Weekly Options - Week 2",
+        "oi": "381",
+        "volume": "202"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/grain-and-oilseed/kc-wheat_contractSpecs_options.html?optionProductId=7296",
+        "product": "KC HRW Wheat Friday Weekly Options Week 2",
+        "oi": "207",
+        "volume": "200"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/weather/temperature/european-seasonal-strip-weather-cat_contract_specifications.html",
+        "product": "Amsterdam CAT MAY Seasonal Strip Futures",
+        "oi": "200",
+        "volume": "200"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/agriculture/oilseeds/soybean_contractSpecs_options.html?optionProductId=10315",
+        "product": "New Crop Soybean Weekly Options - Week 2",
+        "oi": "2,275",
+        "volume": "190"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=9006",
+        "product": "E-mini Nasdaq-100 Monday Weekly Options - Week 3",
+        "oi": "113",
+        "volume": "190"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/nasdaq/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=10228",
+        "product": "E-mini Nasdaq-100 Tuesday Weekly Options - Week 3",
+        "oi": "434",
+        "volume": "189"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/british-pound_contractSpecs_options.html?optionProductId=8100",
+        "product": "GBP/USD Weekly Friday Options - Week 2",
+        "oi": "1,257",
+        "volume": "188"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/australian-dollar_contractSpecs_options.html?optionProductId=8095",
+        "product": "AUD/USD Weekly Friday Options - Week 3",
+        "oi": "1,077",
+        "volume": "187"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/equity-index/us-index/e-mini-nasdaq-100_contractSpecs_options.html?optionProductId=9011",
+        "product": "E-mini Nasdaq-100 Wednesday Weekly Options - Week 3",
+        "oi": "238",
+        "volume": "186"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/canadian-dollar_contractSpecs_options.html?optionProductId=8899",
+        "product": "CAD/USD Weekly Monday Options - Week 4",
+        "oi": "185",
+        "volume": "185"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/dairy/nonfat-dry-milk_contractSpecs_options.html?optionProductId=782",
+        "product": "Nonfat Dry Milk Options",
+        "oi": "13,590",
+        "volume": "170"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/equities/russell/e-mini-russell-2000_contractSpecs_options.html?optionProductId=10323",
+        "product": "E-mini Russell 2000 Tuesday Weekly Options - Week 3",
+        "oi": "341",
+        "volume": "166"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/euro-fx_contractSpecs_options.html?optionProductId=8120",
+        "product": "EUR/USD Weekly Friday Options - Week 4",
+        "oi": "2,381",
+        "volume": "162"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/base/copper_contractSpecs_options.html?optionProductId=7499",
+        "product": "Copper Weekly Friday Option - Week 2",
+        "oi": "335",
+        "volume": "162"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/gold_contractSpecs_options.html?optionProductId=10146",
+        "product": "Gold Weekly Monday Option - Week 4",
+        "oi": "632",
+        "volume": "154"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/fx/g10/australian-dollar_contractSpecs_options.html?optionProductId=10292",
+        "product": "AUD/USD Weekly Thursday Options - Week 2",
+        "oi": "155",
+        "volume": "151"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/silver_contractSpecs_options.html?optionProductId=10637",
+        "product": "Silver Weekly Thursday Option - Week 2",
+        "oi": "434",
+        "volume": "150"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/micro-bitcoin_contractSpecs_options.html?optionProductId=10096",
+        "product": "Wednesday Weekly Options on Micro Bitcoin Futures - Week 2",
+        "oi": "159",
+        "volume": "149"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/micro-bitcoin_contractSpecs_options.html?optionProductId=10102",
+        "product": "Friday Weekly Options on Micro Bitcoin Futures - Week 3",
+        "oi": "141",
+        "volume": "141"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude_contractSpecs_options.html?optionProductId=10736",
+        "product": "Crude Oil Tuesday Weekly Option - Week 4",
+        "oi": "381",
+        "volume": "139"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/british-pound_contractSpecs_options.html?optionProductId=8891",
+        "product": "GBP/USD Weekly Monday Options - Week 1",
+        "oi": "179",
+        "volume": "133"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/energy/crude-oil/micro-wti-crude-oil_contractSpecs_options.html?optionProductId=10175",
+        "product": "Micro WTI Crude Oil Weekly Option - Week 1",
+        "oi": "0",
+        "volume": "122"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/silver_contractSpecs_options.html?optionProductId=10152",
+        "product": "Silver Weekly Monday Option - Week 2",
+        "oi": "306",
+        "volume": "119"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/silver_contractSpecs_options.html?optionProductId=10632",
+        "product": "Silver Weekly Tuesday Option - Week 2",
+        "oi": "370",
+        "volume": "118"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/silver_contractSpecs_options.html?optionProductId=10153",
+        "product": "Silver Weekly Monday Option - Week 3",
+        "oi": "208",
+        "volume": "115"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/british-pound_contractSpecs_options.html?optionProductId=8894",
+        "product": "GBP/USD Weekly Monday Options - Week 4",
+        "oi": "106",
+        "volume": "107"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/canadian-dollar_contractSpecs_options.html?optionProductId=8434",
+        "product": "CAD/USD Weekly Wednesday Options - Week 5",
+        "oi": "106",
+        "volume": "106"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/canadian-dollar_contractSpecs_options.html?optionProductId=8106",
+        "product": "CAD/USD Weekly Friday Options - Week 2",
+        "oi": "2,047",
+        "volume": "95"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/silver_contractSpecs_options.html?optionProductId=10633",
+        "product": "Silver Weekly Tuesday Option - Week 3",
+        "oi": "180",
+        "volume": "95"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/silver_contractSpecs_options.html?optionProductId=10636",
+        "product": "Silver Weekly Thursday Option - Week 1",
+        "oi": "183",
+        "volume": "90"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/agriculture/grains/corn_contractSpecs_options.html?optionProductId=10966",
+        "product": "Corn Tuesday Weekly Options - Week 2",
+        "oi": "224",
+        "volume": "86"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/base/copper_contractSpecs_options.html?optionProductId=10160",
+        "product": "Copper Weekly Monday Option - Week 2",
+        "oi": "100",
+        "volume": "86"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/refined-products/mini-european-naphtha-platts-balmo-swap-futures_contract_specifications.html",
+        "product": "Mini European Naphtha (Platts) BALMO Futures",
+        "oi": "82",
+        "volume": "82"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/micro-bitcoin_contractSpecs_options.html?optionProductId=10445",
+        "product": "Thursday Weekly Options on Micro Bitcoin Futures - Week 2",
+        "oi": "80",
+        "volume": "80"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/base/copper_contractSpecs_options.html?optionProductId=10643",
+        "product": "Copper Weekly Tuesday Option - Week 3",
+        "oi": "63",
+        "volume": "79"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/natural-gas/natural-gas-last-day_contractSpecs_options.html?optionProductId=4737",
+        "product": "Natural Gas (Henry Hub) Last-day Financial Option",
+        "oi": "248,556",
+        "volume": "70"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/base/copper_contractSpecs_options.html?optionProductId=10642",
+        "product": "Copper Weekly Tuesday Option - Week 2",
+        "oi": "91",
+        "volume": "70"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/metals/precious/silver_contractSpecs_options.html?optionProductId=10154",
+        "product": "Silver Weekly Monday Option - Week 4",
+        "oi": "67",
+        "volume": "70"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/metals/precious/palladium_contractSpecs_options.html?optionProductId=5380",
+        "product": "Palladium Option",
+        "oi": "3,191",
+        "volume": "65"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/dairy/cash-settled-butter_contractSpecs_options.html?optionProductId=774",
+        "product": "Cash-settled Butter Options",
+        "oi": "18,109",
+        "volume": "64"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/interest-rates/us-treasury/ultra-10-year-us-treasury-note_contractSpecs_options.html?optionProductId=10599",
+        "product": "Ultra 10-Year Treasury Note Monday Weekly Options - Week 1",
+        "oi": "367",
+        "volume": "62"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/agricultural/dairy/dry-whey_contractSpecs_options.html?optionProductId=784",
+        "product": "Dry Whey Options",
+        "oi": "2,238",
+        "volume": "61"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/euro-fx_contractSpecs_options.html?optionProductId=8902",
+        "product": "EUR/USD Weekly Monday Options - Week 2",
+        "oi": "265",
+        "volume": "61"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/energy/petrochemicals/mont-belvieu-ethylene-pcw-balmo-swap-futures_contract_specifications.html",
+        "product": "Mont Belvieu Ethylene (OPIS PCW) BALMO Futures",
+        "oi": "75",
+        "volume": "60"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/fx/g10/euro-fx_contractSpecs_options.html?optionProductId=10297",
+        "product": "EUR/USD Weekly Tuesday Options - Week 2",
+        "oi": "882",
+        "volume": "57"
+    },
+    {
+        "url": "https://www.cmegroup.com/trading/fx/g10/british-pound_contractSpecs_options.html?optionProductId=8101",
+        "product": "GBP/USD Weekly Friday Options - Week 3",
+        "oi": "771",
+        "volume": "56"
+    },
+    {
+        "url": "https://www.cmegroup.com/markets/agriculture/oilseeds/soybean-meal_contractSpecs_options.html?optionProductId=11040",
+        "product": "Soybean Meal Monday Weekly Options - Week 1",
+        "oi": "50",
+        "volume": "50"
+    }
+]

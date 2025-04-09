@@ -44,7 +44,8 @@ def read_json(file_path):
 
 
 def json_report(item):
-    FILE_PATH = read_json("database_settings.json")["json_report"]
+    version = read_json("database_settings.json")["json_report_version"]
+    FILE_PATH = f"report_{version}.json"
 
     if not os.path.exists(FILE_PATH):
         with open(FILE_PATH, "w") as f:
