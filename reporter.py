@@ -27,6 +27,17 @@ class RowCounter:
         result = self.cursor.fetchone()
         return result[0] if result else 0
 
+    def table_exists(self, table_name: str) -> bool:
+        self.cursor.execute(
+            """
+            SELECT COUNT(*)
+            FROM information_schema.tables
+            WHERE table_schema = %s AND table_name = %s
+        """,
+            (self.conn.database, table_name),
+        )
+        return self.cursor.fetchone()[0] == 1
+
     def close(self):
         self.cursor.close()
         self.conn.close()
@@ -35,13 +46,18 @@ class RowCounter:
 # === FastAPI route ===
 @app.get("/report/{param}")
 def report(param: str):
-    table_name = param
-    row_counter = RowCounter()
-    count = row_counter.count_rows(table_name)
-    row_counter.close()
     json_report_file = f"report_{param}.json"
     if not os.path.exists(json_report_file):
-        return JSONResponse(content={"error": "version not found"})
+        return JSONResponse(content={"error": "report file not found"})
+
+    table_name = param
+    row_counter = RowCounter()
+
+    if row_counter.table_exists(table_name):
+        return JSONResponse(content={"error": "table not found"})
+
+    count = row_counter.count_rows(table_name)
+    row_counter.close()
 
     json_reports = read_json(json_report_file)
     failedCount = 0
