@@ -33,14 +33,16 @@ class RowCounter:
 
 
 # === FastAPI route ===
-@app.get("/report")
-def report():
+@app.get("/report/{param}")
+def report(param: str):
     table_name = read_json("database_settings.json")["tableName"]
     row_counter = RowCounter()
     count = row_counter.count_rows(table_name)
     row_counter.close()
+    json_report_file = f"report_{param}.json"
+    if not os.path.exists(json_report_file):
+        return JSONResponse(content={"error": "version not found"})
 
-    json_report_file = read_json("database_settings.json")["json_report"]
     json_reports = read_json(json_report_file)
     failedCount = 0
     for report in json_reports:

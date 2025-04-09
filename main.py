@@ -16,7 +16,7 @@ def alpha(product, chromeDriver: ChromeDriver, tableRow: TableRow):
     )
     if productDetails is None or price30Days is None:
         raise RuntimeError("Failed to fetch product details or price data")
-    
+
     average_volume, average_oi = calculatePriceAverage(price30Days)
     tableRow.data["product"] = product["product"]
     tableRow.data["url"] = product["url"]
@@ -33,34 +33,76 @@ def main():
     tableName = read_json("database_settings.json")["tableName"]
     tableRow = TableRow(tableName)
     database = Database()
+    failCounter = 0
+    last_failCounter = 0
+    chromeDriver = ChromeDriver(headless=True)
 
     for idx, product in enumerate(products):
         print(f"{idx} Processing")
-        tableRow.clearRow()
-        chromeDriver = ChromeDriver(headless=True)
         report = {"idx": idx, "url": product["url"], "success": "true"}
+        tableRow.clearRow()
+
+        if failCounter == last_failCounter + 2:
+            print("Failed twice in a row, resetting driver")
+            last_failCounter = failCounter
+            time.sleep(60)
+            chromeDriver.shutdown()
+            chromeDriver = ChromeDriver(headless=True)
+
         try:
             alpha(product, chromeDriver, tableRow)
         except:
-            print(f"{idx} Failed. Retrying")
-            chromeDriver.shutdown()
-            time.sleep(60)
-            chromeDriver = ChromeDriver(headless=True)
             try:
+                time.sleep(10)
+                print(f"{idx} Failed Once, trying again")
                 alpha(product, chromeDriver, tableRow)
             except:
+                print(f"{idx} Failed, skipping")
+                failCounter += 1
                 report["success"] = "false"
-                print(f"{idx} Failed Completely")
         finally:
             if report["success"] == "true":
                 print(f"{idx} Adding to database")
                 database.insert_row(tableRow)
-
-            chromeDriver.shutdown()
             json_report(report)
-            time.sleep(2 * 60)
 
+    chromeDriver.shutdown()
     database.close()
+
+
+# def main():
+#     products = read_json("urls.json")
+#     tableName = read_json("database_settings.json")["tableName"]
+#     tableRow = TableRow(tableName)
+#     database = Database()
+
+#     for idx, product in enumerate(products):
+#         print(f"{idx} Processing")
+#         tableRow.clearRow()
+#         chromeDriver = ChromeDriver(headless=True)
+#         report = {"idx": idx, "url": product["url"], "success": "true"}
+#         try:
+#             alpha(product, chromeDriver, tableRow)
+#         except:
+#             print(f"{idx} Failed. Retrying")
+#             chromeDriver.shutdown()
+#             time.sleep(60)
+#             chromeDriver = ChromeDriver(headless=True)
+#             try:
+#                 alpha(product, chromeDriver, tableRow)
+#             except:
+#                 report["success"] = "false"
+#                 print(f"{idx} Failed Completely")
+#         finally:
+#             if report["success"] == "true":
+#                 print(f"{idx} Adding to database")
+#                 database.insert_row(tableRow)
+
+#             chromeDriver.shutdown()
+#             json_report(report)
+#             time.sleep(2 * 60)
+
+#     database.close()
 
 
 main()

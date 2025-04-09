@@ -31,7 +31,6 @@ class TableRow:
 
     def clearRow(self):
         self.data = {col: None for col in self.struct}
-        
 
 
 class Database:
@@ -43,6 +42,7 @@ class Database:
             database=os.getenv("MYSQL_DATABASE"),
         )
         self.cursor = self.conn.cursor()
+        print("Connected to Database")
 
     def create_table(self, row: TableRow):
         columns = ", ".join(f"`{col}` {typ}" for col, typ in row.struct.items())
