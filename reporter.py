@@ -53,7 +53,7 @@ def report(param: str):
     table_name = param
     row_counter = RowCounter()
 
-    if row_counter.table_exists(table_name):
+    if not row_counter.table_exists(table_name):
         return JSONResponse(content={"error": "table not found"})
 
     count = row_counter.count_rows(table_name)
