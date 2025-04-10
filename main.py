@@ -5,6 +5,7 @@ from utils import calculatePriceAverage
 import json
 import csv
 import time
+from datetime import datetime
 import random
 import os
 import traceback
@@ -29,7 +30,9 @@ def alpha(product, chromeDriver: ChromeDriver, tableRow: TableRow):
 
 
 def main():
-    products = read_json("urls.json")
+    start_time = datetime.now()
+
+    products = read_json("database_settings.json")["urlFile"]
     tableName = read_json("database_settings.json")["tableName"]
     tableRow = TableRow(tableName)
     database = Database()
@@ -68,6 +71,8 @@ def main():
 
     chromeDriver.shutdown()
     database.close()
+    end_time = datetime.now()
+    print(f"Elapsed Time: {end_time - start_time}")
 
 
 # def main():
