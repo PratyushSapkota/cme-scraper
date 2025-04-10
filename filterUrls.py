@@ -2,7 +2,7 @@ import requests
 from datafile import read_json, log_json
 import json
 
-data = requests.get("http://34.100.231.222:8000/report/v1")
+data = requests.get("http://34.100.231.222:8000/report/v2")
 
 reportData = data.json()
 filtered = []
