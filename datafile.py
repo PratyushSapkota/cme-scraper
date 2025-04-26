@@ -60,10 +60,9 @@ def json_report(item):
         json.dump(data, f, indent=4)
 
 
-ERROR_LOG_FILE = "errors.json"
-
 
 def load_errors():
+    ERROR_LOG_FILE = f"error_{read_json("database_settings.json")["version"]}.json"
     if os.path.exists(ERROR_LOG_FILE):
         with open(ERROR_LOG_FILE, "r") as f:
             return json.load(f)
@@ -71,6 +70,7 @@ def load_errors():
 
 
 def save_errors(errors):
+    ERROR_LOG_FILE = f"error_{read_json("database_settings.json")["version"]}.json"
     with open(ERROR_LOG_FILE, "w") as f:
         json.dump(errors, f, indent=4)
 
