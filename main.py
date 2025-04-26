@@ -1,6 +1,6 @@
 from database import TableRow, Database
 from chromedriver import ChromeDriver
-from datafile import log_json, read_json, addToLogs, json_report
+from datafile import log_json, read_json, addToLogs, json_report, log_unique_error
 from utils import calculatePriceAverage
 import json
 import csv
@@ -59,10 +59,11 @@ def main():
                 time.sleep(10)
                 print(f"{idx} Failed Once, trying again")
                 alpha(product, chromeDriver, tableRow)
-            except:
+            except Exception as e:
                 print(f"{idx} Failed, skipping")
                 failCounter += 1
                 report["success"] = "false"
+                log_unique_error(e)
         finally:
             if report["success"] == "true":
                 print(f"{idx} Adding to database")

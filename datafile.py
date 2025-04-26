@@ -58,3 +58,30 @@ def json_report(item):
 
     with open(FILE_PATH, "w") as f:
         json.dump(data, f, indent=4)
+
+
+ERROR_LOG_FILE = "errors.json"
+
+
+def load_errors():
+    if os.path.exists(ERROR_LOG_FILE):
+        with open(ERROR_LOG_FILE, "r") as f:
+            return json.load(f)
+    return []
+
+
+def save_errors(errors):
+    with open(ERROR_LOG_FILE, "w") as f:
+        json.dump(errors, f, indent=4)
+
+
+def format_error(e):
+    return {"type": type(e).__name__, "message": str(e).split("\n")[0]}
+
+
+def log_unique_error(e):
+    error_entry = format_error(e)
+    errors = load_errors()
+    if error_entry not in errors:
+        errors.append(error_entry)
+        save_errors(errors)
