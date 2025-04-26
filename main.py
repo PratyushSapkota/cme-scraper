@@ -33,7 +33,7 @@ def main():
     start_time = datetime.now()
 
     products = read_json(read_json("database_settings.json")["urlFile"])
-    tableName = read_json("database_settings.json")["tableName"]
+    tableName = read_json("database_settings.json")["version"]
     tableRow = TableRow(tableName)
     database = Database()
     failCounter = 0

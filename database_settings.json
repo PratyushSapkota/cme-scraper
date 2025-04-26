@@ -1,5 +1,4 @@
 {
-  "tableName": "test_v2",
-  "json_report_version": "test_v2",
+  "version":"",
   "urlFile": "filtered_test1.json"
 }

@@ -72,3 +72,18 @@ def report(param: str):
 @app.get("/")
 def default():
     return JSONResponse(content={"hello": "world"})
+
+
+@app.get("/error/{param}")
+def report_error(param: str):
+    error_report_file = f"error_{param}.json"
+    if not os.path.exists(error_report_file):
+        return JSONResponse(content={"error": "report file not found"})
+    table_name = param
+    row_counter = RowCounter()
+
+    if not row_counter.table_exists(table_name):
+        return JSONResponse(content={"error": "table not found"})
+
+    error_report = read_json(error_report_file)
+    return JSONResponse(error_report)
