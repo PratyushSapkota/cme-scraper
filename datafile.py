@@ -62,7 +62,7 @@ def json_report(item):
 
 
 def load_errors():
-    ERROR_LOG_FILE = f"error_{read_json("database_settings.json")["version"]}.json"
+    ERROR_LOG_FILE = f"error_{read_json('database_settings.json')['version']}.json"
     if os.path.exists(ERROR_LOG_FILE):
         with open(ERROR_LOG_FILE, "r") as f:
             return json.load(f)
