@@ -70,7 +70,7 @@ def load_errors():
 
 
 def save_errors(errors):
-    ERROR_LOG_FILE = f"error_{read_json("database_settings.json")["version"]}.json"
+    ERROR_LOG_FILE = f"error_{read_json('database_settings.json')['version']}.json"
     with open(ERROR_LOG_FILE, "w") as f:
         json.dump(errors, f, indent=4)
 
